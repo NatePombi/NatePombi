@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there, I'm Nathan 👋
 
-<!--
-**NatePombi/NatePombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development graduate and passionate Java developer with a strong focus on clean architecture, testing, and real-world problem solving.
 
-Here are some ideas to get you started:
+Recently, I built a fully-featured **console-based banking system** from scratch — complete with user authentication, account management, transaction handling, and database persistence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Java (OOP, Interfaces, Inheritance)
+- ✅ JDBC with H2 Database
+- ✅ Unit & Integration Testing (JUnit + Mockito)
+- ✅ Clean architecture with separation of concerns
+- ✅ Basic security (e.g. password hashing)
+
+---
+
+### 🚀 Featured Project: [Fully Featured Banking System](https://github.com/NatePombi/fully-featured-banking-System)
+
+A powerful, console-based banking system where users can:
+- Register/Login
+- Create multiple accounts
+- Deposit, Withdraw, Transfer
+- View transaction history
+- Persistence via embedded database (H2 + JDBC)
+- Full test coverage using JUnit and Mockito
+
+---
+
+### 🧠 I'm currently:
+- Finalizing this app before migrating to a front-end version
+- Looking for Java backend internships 
+- Exploring JavaFX/Spring Boot
+
+---
+
+### 📫 Contact Me:
+- GitHub: [@NatePombi](https://github.com/NatePombi)
+- Email: pombinathan@gmail.com
+- Linkedin : https://www.linkedin.com/in/nathanpombi/
