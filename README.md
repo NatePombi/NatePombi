@@ -8,7 +8,7 @@ Recently, I built a fully-featured **console-based banking system** from scratch
 - ✅ JDBC with H2 Database
 - ✅ Unit & Integration Testing (JUnit + Mockito)
 - ✅ Clean architecture with separation of concerns
-- ✅ Basic security (e.g. password hashing)
+- ✅ Basic security 
 
 ---
 
