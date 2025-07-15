@@ -5,7 +5,7 @@ I'm a Software Development graduate and passionate Java developer with a strong 
 Recently, I built a fully-featured **console-based banking system** from scratch — complete with user authentication, account management, transaction handling, and database persistence.
 
 - ✅ Java (OOP, Interfaces, Inheritance)
-- ✅ JDBC with H2 Database
+- ✅ JDBC with MYSQL
 - ✅ Unit & Integration Testing (JUnit + Mockito)
 - ✅ Clean architecture with separation of concerns
 - ✅ Basic security 
