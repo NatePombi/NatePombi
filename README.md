@@ -56,6 +56,13 @@ Tech & Highlights:
 
 
 ---
+### My Certificates
+#### Java Programming Masterclass
+- Provider: Udemy
+- Completed: Nov 2025
+- [View Certificate](./Nathan_Certificate.pdf)
+
+---
 
 ### 🧠 I'm currently:
 - Finalizing both apps for front-end migration
