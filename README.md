@@ -60,7 +60,7 @@ Tech & Highlights:
 #### Java Programming Masterclass
 - Provider: Udemy
 - Completed: Nov 2025
-- [View Certificate](./Nathan_Certificate.pdf)
+- [View Certificate](./NathanCertificate.jpeg)
 
 ---
 
