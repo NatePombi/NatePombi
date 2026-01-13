@@ -103,7 +103,6 @@ Tech & Highlights:
 
 ### 🧠 I'm currently:
 - Finalizing all apps for front-end migration
-- Exploring Spring Boot microservices and advanced backend features
 - Looking for Java backend internships to gain real-world experience
 
 ---
