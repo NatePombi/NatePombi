@@ -98,8 +98,8 @@ A **foundational banking system** built with core Java to demonstrate strong OOP
 ## 📜 Certifications
 
 **Java Programming Masterclass — Udemy**
-Completed: Nov 2025
-📄 View Certificate: `./NathanCertificate.jpeg`
+- Completed: Nov 2025
+- 📄 View Certificate: `./NathanCertificate.jpeg`
 
 ---
 
