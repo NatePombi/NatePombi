@@ -17,6 +17,7 @@ I specialize in designing secure REST APIs, financial systems, and backend servi
 * **CI/CD (GitHub Actions, Codecov, JaCoCo)**
 * **Docker & Environment Configuration**
 * **Clean Architecture & Layered Design**
+* **AWS (Cloud Deployment)
 
 ---
 
@@ -30,15 +31,16 @@ A **production-ready financial management API** built with Spring Boot, designed
 
 **Highlights:**
 
-* Multi-account financial modeling with strict ownership boundaries
+* Deployed on AWS (EC2 + RDS) with secure environment configuration
 * Ledger-based balance calculation (no stored balance → ensures accuracy)
-* Secure JWT authentication with user-scoped data access
-* Advanced filtering, pagination, and reporting
-* Monthly analytics (income, expenses, category breakdowns)
+* JWT authentication with strict user-scoped data access
+* Advanced filtering, pagination, and date-based queries
+* Monthly analytics (income, expenses, category breakdowns, net balance)
+* Optimized queries using JOIN FETCH to prevent N+1 issues
 * Flyway-managed database migrations
 * Fully Dockerized for consistent deployment
 
-**Tech:** Java, Spring Boot, PostgreSQL, Docker, Flyway, Swagger
+**Tech:** Java, Spring Boot, PostgreSQL, AWS,  Docker, Flyway, Swagger
 
 ---
 
