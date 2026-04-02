@@ -17,7 +17,7 @@ I specialize in designing secure REST APIs, financial systems, and backend servi
 * **CI/CD (GitHub Actions, Codecov, JaCoCo)**
 * **Docker & Environment Configuration**
 * **Clean Architecture & Layered Design**
-* **AWS (Cloud Deployment)
+* **AWS (Cloud Deployment)**
 
 ---
 
