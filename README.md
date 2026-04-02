@@ -21,7 +21,7 @@ I specialize in designing secure REST APIs, financial systems, and backend servi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (AWS Deployed)
 
 ### 🔹 Finance Tracker API
 
